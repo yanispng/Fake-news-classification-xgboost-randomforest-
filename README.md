@@ -3,3 +3,4 @@ This project focuses on building a machine learning model to classify news artic
 To address this issue, I applied both undersampling (for dominant classes) and oversampling using SMOTE (to boost minority classes). The chosen model was a Random Forest classifier, which achieved strong performance on the classes with abundant data but struggled to accurately predict underrepresented categories.
 
 Despite these challenges, the project was an important step forward in my machine learning journey. It allowed me to work with real-world text data, handle imbalanced datasets, and apply more advanced ML techniques, all of which significantly improved my skills and understanding.
+The link to the csv file i worked on  : https://drive.google.com/file/d/1l8sgvKpV2x4u8jr-VFnkBki3OJj3UN5J/view (the file was too large to upload here even after the data cleaning)
